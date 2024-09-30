@@ -35,6 +35,7 @@ int main(){
     while(cin>>s&&s!="X"){
         if(s=="I"){
             char dummy;
+            cin.ignore();
             getline(cin,n, ',');
             cin>>a>>dummy;
             getline(cin,h);
