@@ -69,7 +69,7 @@ class Stack_withLL{
         }
 };
 
-void display(Stack_withLL &s){
+void display(Stack_withLL s){
     Node *temp = s.Heap();
     Stack_withLL s2(s.getsize());
     while(temp){
