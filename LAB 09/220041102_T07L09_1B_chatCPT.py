@@ -1,3 +1,6 @@
+### ChatGPT Faltu
+### ei code kam kore na
+
 def is_abbreviation_in_list(word_list, abbreviation):
     for word in word_list:
         index = 0  # Index to track position in the abbreviation
