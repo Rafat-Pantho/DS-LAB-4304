@@ -1,1 +1,0 @@
-{"name":"Local: 220041102_T05L01_1B","url":"d:\\IUT accademic\\DS LAB 4304\\LAB 01\\220041102_T05L01_1B.cpp","tests":[{"id":1726580049075,"input":"3\nIUT\ndata\nmozzarella \n","output":"TUI\natad\nallerazzom\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\IUT accademic\\DS LAB 4304\\LAB 01\\220041102_T05L01_1B.cpp","group":"local","local":true}
